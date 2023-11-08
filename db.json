@@ -1,0 +1,44 @@
+{
+  "stocks": [
+    {
+      "id": "1",
+      "name": "BMW",
+      "price": 110
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "price": 200
+    },
+    {
+      "id": "3",
+      "name": "Apple",
+      "price": 250
+    },
+    {
+      "id": "4",
+      "name": "Twitter",
+      "price": 8
+    },
+    {
+      "name": "a1",
+      "price": "1",
+      "id": "7RB0zoS"
+    },
+    {
+      "name": "a2",
+      "price": "2",
+      "id": "MR8pRCO"
+    },
+    {
+      "name": "a3",
+      "price": "3",
+      "id": "S9RWizS"
+    },
+    {
+      "name": "a4",
+      "price": "4",
+      "id": "--KxzOc"
+    }
+  ]
+}
